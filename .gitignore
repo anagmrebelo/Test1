@@ -1,0 +1,7 @@
+# this is the file to ignore tracking
+.DS_STORE
+*.js
+*.py
+
+#
+
